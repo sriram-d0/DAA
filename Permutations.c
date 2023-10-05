@@ -18,7 +18,6 @@ void perm(char a[], int k, int n) {
         }
     }
 }
-
 int main() {
     char a[20];
     int n;
